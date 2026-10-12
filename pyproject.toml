@@ -5,6 +5,7 @@ description = "Credit Card transactions analysis for fraud detection and custome
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "cudf",
     "ipykernel>=6.29.5",
     "ipython>=9.3.0",
     "matplotlib>=3.10.3",
